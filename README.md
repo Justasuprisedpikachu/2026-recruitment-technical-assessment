@@ -22,15 +22,17 @@ You should complete either the [backend](./backend/README.md) **OR** [frontend](
 If you are applying for **Chaos**, you should complete either the [chaos](./chaos/README.md) **AND** [backend](./backend/README.md) tasks for backend, **OR** the [frontend](./frontend/README.md) task.
 
 ### Freerooms
-If you are applying for **Freerooms**, you may optionally choose to complete the [freerooms](./freerooms/README.md) task in addition to the [frontend](./frontend/README.md) or [backend](./backend/README.md) tasks.
+If you are applying for **Freerooms**, you have the following options:
+- "Freerooms Web" applicants: Complete either the [backend](./backend/README.md) **OR** [frontend](./frontend/README.md) task
+- "Freerooms Mobile" applicants: Complete the [mobile ("freerooms")](./freerooms/README.md)
 
-If you aren't applying for any other projects, and you are specifically interested in mobile development with Freerooms, we recommend completing the [freerooms](./freerooms/README.md) assessment. In this case you do not need to complete any other assessment.
+If you aren't applying for any other projects, and you are specifically interested in mobile development with Freerooms, we recommend completing the [mobile ("freerooms")](./freerooms/README.md) assessment. In this case you do not need to complete any other assessment.
 
 ### Warchest
 If you are applying for **Warchest**, you need to complete the [backend](./backend/README.md) **AND** [frontend](./frontend/README.md) tasks for all roles. Applicants who only complete one will not be considered for a position in Warchest.
 
 ### Platforms
-You will only have to complete the [platforms](./platforms/) tasks.
+If you are applying for **Platforms**, you will only need to complete one of the two [platforms](./platforms/) tasks.
 
 
 
@@ -44,5 +46,6 @@ You will only have to complete the [platforms](./platforms/) tasks.
 If you have any questions, feel free to direct questions to:
 
 - [#questions](https://discord.com/channels/1178178680388857867/1199551322219884634) forum in the [DevSoc Discord](https://discord.gg/6fnHcuFFtz).
+*Ask in [#platform-technical-assessment](https://discord.com/channels/1178178680388857867/1199573268697464912) for platforms specific questions.
 - Any execs on the Discord.
 - `exec@devsoc.app` via email.
