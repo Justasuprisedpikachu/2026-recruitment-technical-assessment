@@ -159,7 +159,7 @@ function BuildingCards({ name, rooms_available, building_picture }: { name: stri
         <div className="absolute top-1/2 -translate-y-1/2 left-4 sm:hidden flex text-white font-[600] text-[16px]">
           {name}
         </div>  
-        <div className="absolute sm:top-2.5 top-1/2 md:translate-y-0 -translate-y-1/2 right-2.5 bg-white px-2 py-1 rounded-[15px] h-[38px] flex items-center gap-2 text-[12px] font-[600] px-4 ">
+        <div className="absolute sm:top-2.5 top-1/2 sm:translate-y-0 -translate-y-1/2 right-2.5 bg-white px-2 py-1 rounded-[15px] h-[38px] flex items-center gap-2 text-[12px] font-[600] px-4 ">
           <CircleIcon sx={{ color: "rgb(76,175,80)", fontSize:"12px"  }} />
           <span className="sm:flex hidden">
             {rooms_available} rooms available
